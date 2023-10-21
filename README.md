@@ -1,0 +1,1 @@
+# garbage-bin-detector
