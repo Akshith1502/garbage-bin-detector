@@ -1,0 +1,6 @@
+MODEL TRAINED
+
+https://teachablemachine.withgoogle.com/train/image/
+
+0 garbage
+1 not garbage
